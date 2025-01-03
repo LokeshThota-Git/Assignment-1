@@ -1,0 +1,191 @@
+.container1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: rgb(58, 208, 121);
+  width: 400px;
+  margin: 60px auto;
+  border-radius: 8px;
+  padding-left: 50px;
+  padding-top: 100px;
+  padding-bottom: 140px;
+  padding-right: 90px;
+}
+.btn {
+  border: none;
+  border-radius: 80px;
+  font-size: 16px;
+  background-color: #fff;
+  padding: 9px 35px;
+  font-weight: bold;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.h1 {
+  line-height: 0.7;
+}
+p {
+  font-size: 14px;
+  font-weight: 500;
+}
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+.container2 {
+  font-family: "Roboto Flex", sans-serif;
+  font-style: normal;
+  border: 1px solid lightgray;
+  width: 540px;
+  margin: 60px auto;
+  border-radius: 8px;
+  padding-bottom: 135px;
+}
+.h1-2 {
+  font-size: 28px;
+  font-weight: 450;
+  margin-bottom: 10px;
+  position: relative;
+  top: 15px;
+  left: 30px;
+}
+.p2 {
+  font-family: "Roboto Flex", sans-serif;
+  font-weight: 300;
+  font-size: 17px;
+  color: rgb(98, 98, 98);
+  position: relative;
+  top: 10px;
+  left: 30px;
+  padding-right: 150px;
+}
+.img-1 {
+  width: 70px;
+  border-radius: 50%;
+  position: relative;
+  left: 70px;
+  top: 35px;
+}
+.img-2 {
+  width: 70px;
+  border-radius: 50%;
+  position: relative;
+  left: 170px;
+  top: 35px;
+}
+.btn2 {
+  position: relative;
+  top: 120px;
+  left: 20px;
+  font-size: 14px;
+  border: none;
+  color: #1a73e8;
+  background-color: #fff;
+  font-weight: 545;
+  cursor: pointer;
+}
+.hr {
+    border-top: 1px solid lightgrey;
+    position: relative;
+    top: 110px;
+}
+.container3{
+    border: 1px solid lightgrey;
+    width: 540px;
+    margin: 60px auto;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+.img-3{
+    width:100%;
+    border-radius: 10px 10px 0 0;
+}
+.container3 .sub2{
+    font-family: "Roboto Flex", sans-serif;
+    padding-top: 2%;
+    padding-left: 30px;
+    padding-right: 35px;
+}
+.container3 .sub2-h1{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.container3 .sub2-p1{
+    color: rgb(113, 113, 113);
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    font-weight: medium;
+    
+}
+.material-symbols-outlined {
+  font-variation-settings:
+'FILL' 0,
+'wght' 400,
+'GRAD' 0,
+'opsz' 24;
+vertical-align: sub;
+color: rgb(113, 113, 113);
+padding-right: 5px;
+}
+
+.container3 .sub2-p2{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.btn3{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+    color: #1a73e8;
+    font-size: 16px;
+    padding: 9px 35px;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.container4 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+}
+.img-4 {
+  height: 30px;
+}
+.input {
+  padding: 5px;
+  width: 200px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+.login {
+  border: none;
+  border-radius: 80px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  padding: 11px 35px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+h3 {
+  font-size: 14px;
+}
+
+.signup{
+    line-height: 1;
+    font-size: 12px;
+    color: black;
+}
+.footer{
+    font-size: 12px;
+    color: gray;
+    padding-left: 600px;
+    padding-right: 600px;
+}
+.ul{
+    color: black;
+}
